@@ -16,8 +16,8 @@ https://topqiang.github.io/XQ_bigimg/goodsDetail.html
 
 <h3>3.迫不及待想试一试了。</h3>
 
-<script src="js/jquery-1.8.2.js"></script> 
-<script src="js/xq_bigimg.js"></script> 
+\<script src="js/jquery-1.8.2.js"\>\</script\> 
+\<script src="js/xq_bigimg.js"\>\</script\> 
 在你的页面里引入这两个文件。位置放在页面哪里都可以。
 
 \<img src="img/demo.png" xq_big="true" setting='{"pwidth":400,"pheight":400,"margin_top":0,"margin_left":0}'/\>
