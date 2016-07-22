@@ -11,8 +11,8 @@
 				"pwidth"	: 	300,
 				"pheight"	: 	200,
 				"scale"		: 	3,
-				"margin_top"	: 50,
-				"margin_left" 	: 50,
+				"margin_top"	: 0,
+				"margin_left" 	: 0,
 				"pclass"		: ""
 			}
 			$.extend(this.setting,this.getSetting());
@@ -84,5 +84,5 @@
 		window['XQ_bigimg']=XQ_bigimg;
 	})(jQuery)
 	$(function(){
-		XQ_bigimg.init($("[xq_big='true']"));
+		XQ_bigimg.init($("img[xq_big='true']"));
 	});
