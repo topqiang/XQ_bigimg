@@ -18,7 +18,7 @@ https://topqiang.github.io/XQ_bigimg/goodsDetail.html
 <script src="js/xq_bigimg.js"></script> 
 在你的页面里引入这两个文件。位置放在页面哪里都可以。
 
-<img src="img/demo.png" xq_big="true" setting='{"pwidth":400,"pheight":400,"margin_top":0,"margin_left":0}'/>
+\<img src="img/demo.png" xq_big="true" setting='{"pwidth":400,"pheight":400,"margin_top":0,"margin_left":0}'/\>
 然后在加入你要显示的图片  
 
 <b>xq_big="true"</b> 这个属性很重要哦。它是标注当前元素为放大镜的标识。  <b>setting='{"pwidth":400,"pheight":400,"margin_top":0,"margin_left":0}'</b>这个属性是为放大镜配置的参数。一定要遵循标准的json格式哦。
