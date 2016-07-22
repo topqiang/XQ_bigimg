@@ -84,5 +84,5 @@
 		window['XQ_bigimg']=XQ_bigimg;
 	})(jQuery)
 	$(function(){
-		XQ_bigimg.init($("[xq_big='true']"));
+		XQ_bigimg.init($("img[xq_big='true']"));
 	});
