@@ -11,8 +11,8 @@
 				"pwidth"	: 	300,
 				"pheight"	: 	200,
 				"scale"		: 	3,
-				"margin_top"	: 0,
-				"margin_left" 	: 0,
+				"margin_top"	: 	0,
+				"margin_left" 	: 	0,
 				"pclass"		: ""
 			}
 			$.extend(this.setting,this.getSetting());
